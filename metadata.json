@@ -1,0 +1,6 @@
+{
+  "name": "دورهمی وای‌فای",
+  "description": "مجموعه ۱۲ بازی چندنفره تحت وای‌فای (منچ، مارپله، دوز، اتللو، نقطه و خط، نبرد دریایی و...) با گرافیک بالا و چت صوتی و متنی در اتاق بازی.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
